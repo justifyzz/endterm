@@ -1,5 +1,0 @@
-package com.company;
-
-public interface Createworker {
-    com.company.Worker createworker(String name, String surname, int salary, int employ_id, int shop_id);
-}
